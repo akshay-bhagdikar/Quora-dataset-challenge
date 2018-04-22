@@ -66,7 +66,7 @@ b) (Sorted ntersection + remaining part of sentence 1) which contains the sorted
 c) (Sorted ntersection + remaining part of sentence 2) which contains the sorted commonn words + words which contain the remaining part of sentence 2 
 and then these three strings are compared. 
 
-<b>Feature 10) word2vec score/b>
+<b>Feature 10) word2vec score</b>
 Word2Vec is an important NLP technique. Word2vec is a two-layer neural net that processes text. Its input is a text corpus and its output is a set of vectors: feature vectors for words in that corpus. It turns text into a numerical form that deep nets can understand and then the neural network computes similarity between two words based on the corpus. I have used this module to calculate the vectors for every word in a question and sum it up. So I get a vector for every question. Then I calculate the difference vector by taking the difference of the two vectors of the two questions to be compared. If two questions are related then the difference vector elements are supposed to be close to zero in value. Then I sum up the elements of the difference vector. Again lower this value higher are the chances for the two questions to be similar. 
 
 
