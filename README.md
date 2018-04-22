@@ -6,7 +6,7 @@
 
 **Introduction:**
 
-The [Quora] (https://www.kaggle.com/c/quora-question-pairs/data) dataset challenge is about predicting whether two questions have similar meaning or not.It is important for Quora to detect duplicate questions to save space and avoid the hassle of answering the same questions for the users.The goal of this project is to explore natural language processing techniques and integrate them with neural networks.
+The Quora (https://www.kaggle.com/c/quora-question-pairs/data) dataset challenge is about predicting whether two questions have similar meaning or not.It is important for Quora to detect duplicate questions to save space and avoid the hassle of answering the same questions for the users.The goal of this project is to explore natural language processing techniques and integrate them with neural networks.
 
 ****************************************************************************************************************************************
 
