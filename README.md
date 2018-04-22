@@ -75,18 +75,30 @@ Word2Vec is an important NLP technique. Word2vec is a two-layer neural net that 
 
 ## Machine Learning Models 
 
-* Piece of code 
-```
-Test
-```
+Now that we have our features ready we can create a machine learning model to detect duplicacy based on these features. I have used neural network algorithm to create my machine learning model.
+The neural network consists of 4 hidden layers with 60 neurons each. The cost function used is cross entropy and the optimizer used is Adam optimizer. 
+
+The complete code can be found in the ipython notebook.
 
 ********************************************************************************************************************************************************************************************************************************************************************************
 
-## Futre Scope
+## Future Scope
+
+The project helped in exploring different natural language processing techniques that can be used to extract semantics out of a given sentence. The accuracy achieved by the model on test data is around 74%. To further increase the accuracy we can
+1) Add some more features
+2) We can use cross validation to expose our model to different types of sentence structures
+3) Increase the depth of the network
+
 
 ********************************************************************************************************************************************************************************************************************************************************************************
 
 ## References
+
+https://www.kaggle.com/c/quora-question-pairs/data
+http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/
+https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
+https://nlp.stanford.edu/projects/glove/
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 
 
 ********************************************************************************************************************************************************************************************************************************************************************************
