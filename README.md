@@ -94,11 +94,11 @@ The project helped in exploring different natural language processing techniques
 
 ## References
 
-https://www.kaggle.com/c/quora-question-pairs/data
-http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/
-https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
-https://nlp.stanford.edu/projects/glove/
-https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+1) https://www.kaggle.com/c/quora-question-pairs/data
+2) http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/
+3) https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
+4) https://nlp.stanford.edu/projects/glove/
+5) https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 
 
 ********************************************************************************************************************************************************************************************************************************************************************************
